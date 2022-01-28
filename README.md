@@ -1,2 +1,7 @@
 # ae_attendances_modelling
-Building a simple python based model to forecast the number of monthly AE attendances in England
+
+Python notebook to ingest historical A&E attendance data and then a simple Prophet model is used to predict the number of AE attendences in England if the COVID-19 pandemic had not happened. The predicted A&E attendance values from (2020-01 to 2021-12) are then compared to the actual data to quantify the impact of the pandemic on A&E attendances. 
+
+Raw monthly A&E attendance data sourced from NHS England; [HERE](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)
+
+Further infromation of AE attendance data can be found[HERE](https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2019/07/AE-Attendances-Emergency-Definitions-v4.0-final-July-2019.pdf)
