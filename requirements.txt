@@ -1,9 +1,9 @@
-pystan == 3.4.0
+pystan==3.4.0
 fbprophet 
-pandas == 1.4.1
-xlrd == 2.0.1
-plotly == 5.6.0
-kaleido == 0.2.1
-scikit-learn == 1.0.2
-regex == 2022.3.15
-matplotlib == 3.5.1
+pandas==1.4.1
+xlrd==2.0.1
+plotly==5.6.0
+kaleido==0.2.1
+scikit-learn==1.0.2
+regex==2022.3.15
+matplotlib==3.5.1
