@@ -6,7 +6,7 @@ Raw monthly A&E attendance data sourced from NHS England; [HERE](https://www.eng
 
 Further infromation of AE attendance data can be found [HERE](https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2019/07/AE-Attendances-Emergency-Definitions-v4.0-final-July-2019.pdf)
 
-The mean absolute percentage error (MAPE) of the model when predicting the last 12 months od data is 26%.
+The mean absolute percentage error (MAPE) of the model when predicting the last 12 months of data is 26%.
 
 ## Percent difference in actual total A&E attendances vs. predicted attendances during the course of the COVID-19 Pandemic
 
